@@ -1,0 +1,50 @@
+[{
+    "uri": "143701955",
+    "url": "http://www.Newsmax.com/Newsfront/obama-staff-veterans-revamp/2013/12/18/id/542478",
+    "title": "Desperate Obama Tries to Reset Agenda with New Staff",
+    "body": "Highlight the link and press CTRL/Command + C to copy the link to your clipboard.\n As Phil Schiliro arrived at his first meeting last ...",
+    "date": "2013-12-18",
+    "time": "11:40:00",
+    "dateTime": "2013-12-18T11:40:00Z",
+    "dataType": "news",
+    "sentiment": -0.2,
+    "eventUri": "20588",
+    "storyUri": "850f305d-14db-4c75-b547-79470a557ea3-4134",
+    "source": {
+    },
+    "categories": [
+    ],
+    "concepts": [
+    ],
+    "links": ["https://techcrunch.com/2017/11/29/coinbase-internal-revenue-service-taxation/" ],
+    "videos": [
+        {
+            "uri": "https://www.youtube.com/embed/Phtb6nZWiW0",
+            "label": "GoPro on a Cat Left Home Alone"
+        }
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2013/07/you-slow.jpg",
+    "duplicateList": [],
+    "extractedDates": [
+        {
+            "amb": false,               
+            "date": "2013-12-03",      
+            "dateEnd": "2013-12-08",
+            "detectedDate": "Dec. 3-8", 
+            "imp": true,                
+            "posInText": 6164,          
+            "textSnippet": "ublican attacks.  A Dec. 3-8 poll of 86 competit"
+        }
+    ],
+    "isDuplicate": false,       
+    "lang": "eng",              
+    "location": null,           
+    "originalArticle": null,    
+    "sim": 0.3906,              
+    "shares": {
+        "facebook": 1,          
+        "googlePlus": 5,        
+        "pinterest": 2,         
+        "linkedIn": 1           
+    }
+}]
